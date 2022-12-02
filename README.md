@@ -8,6 +8,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 ## Days Completed
 
 * Day 1: Counting Calories
+* Day 2: Rock Paper Scissors
 
 ## Poems
 
@@ -28,3 +29,35 @@ With its heavenly trove
 Then the stars will appear,  
 And when fifty are here,  
 We will eat and we'll drink and be merry.  
+
+### Day 2: To Be A Rock And Not To Roll**
+
+The match is set.  
+The games decide  
+Who's near the snacks,  
+Who's near the tide.
+
+The Rock is hard,  
+But Paper's wide,  
+And Scissor's good  
+At Paper-cide.  
+
+He gave a sheet  
+(Which you have eyed)  
+With every throw -  
+You'll have to hide.  
+
+You didn't know,  
+but had your pride,  
+And so you guessed  
+the second side.  
+
+When he returned,  
+(His name is Clyde)  
+He set you right  
+(If he's allied).  
+
+You know the score.  
+You have the guide.  
+You'll win or lose  
+(unless you've Y'd).  
