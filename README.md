@@ -9,6 +9,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 
 * Day 1: Counting Calories
 * Day 2: Rock Paper Scissors
+* Day 3: Rucksack Reorganization
 
 ## Poems
 
@@ -30,7 +31,7 @@ Then the stars will appear,
 And when fifty are here,  
 We will eat and we'll drink and be merry.  
 
-### Day 2: To Be A Rock And Not To Roll**
+### Day 2: To Be A Rock And Not To Roll
 
 The match is set.  
 The games decide  
@@ -48,16 +49,72 @@ With every throw -
 You'll have to hide.  
 
 You didn't know,  
-but had your pride,  
+But had your pride,  
 And so you guessed  
-the second side.  
+The second side.  
 
 When he returned,  
 (His name is Clyde)  
 He set you right  
 (If he's allied).  
 
+It's X to lose  
+(Unless he lied),    
+And Z to win,  
+Or else, you've tied.  
+
 You know the score.  
 You have the guide.  
 You'll win or lose  
-(unless you've Y'd).  
+(Unless you've Y'd).  
+
+### Day 3: John '5space' Henry
+
+When ol' John Henry was a babe,  
+A-sitting on his papa's knee,  
+He hammer-swung a tiny fist  
+And hammer-hit a keyboard's key.  
+
+They say that mighty Hercules,  
+He wrestled pythons in his crib.  
+John Henry, too, a Python slew;  
+That's what they say, and they don't fib.  
+
+When ol' John Henry was a boy,  
+No more than eight (or maybe nine),  
+His papa sat him down to code,  
+And little John, he learned it fine.  
+
+He typed so fast the frames would fail  
+As terminal commands flew by.  
+He typed so quick the keys would stick.  
+That's what they say, and they don't lie.  
+
+When ol' John Henry was a teen,  
+His papa said the day'd arrived.  
+"They call me `4space`", said his pop.  
+"From here on out, they'll call you `5`."  
+
+But smoke was rising from the hills,  
+And filled with gray what once was blue:   
+The code machine, it changed the scene.  
+That's what they say, and they say true.  
+
+When ol' John Henry was a man,  
+And AoC was his domain,  
+The code machine rolled up to fight  
+And challenged him to end his reign.  
+
+Part 1 it grabbed, ten seconds flat,  
+Before John Henry knew what hit him,  
+But on Part 2, it ground a gear,  
+And Henry moved like crocs had bit him,  
+'Cuz he was good and riled now,  
+And wouldn't let some AI git him,  
+With seven seconds left to go,  
+He grabbed the star he knew would fit him.  
+
+But Henry's heart had beat its last  
+When he had whupped his metal foe.  
+They buried John, he's dead and gone.  
+That's what they say, and they would know.  
