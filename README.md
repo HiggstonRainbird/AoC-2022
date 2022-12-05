@@ -10,10 +10,12 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 1: Counting Calories
 * Day 2: Rock Paper Scissors
 * Day 3: Rucksack Reorganization
+* Day 4: Camp Cleanup
+* Day 5: Supply Stacks
 
 ## Poems
 
-### Day 1: Where's The Wild Things' Star?
+### [Day 1](https://www.adventofcode.com/2022/day/1): Where's The Wild Things' Star?
 
 We're now setting up camp  
 In the dew and the damp,  
@@ -31,7 +33,7 @@ Then the stars will appear,
 And when fifty are here,  
 We will eat and we'll drink and be merry.  
 
-### Day 2: To Be A Rock And Not To Roll
+### [Day 2](https://www.adventofcode.com/2022/day/2): To Be A Rock And Not To Roll
 
 The match is set.  
 The games decide  
@@ -68,7 +70,7 @@ You have the guide.
 You'll win or lose  
 (Unless you've Y'd).  
 
-### Day 3: John '5space' Henry
+### [Day 3](https://www.adventofcode.com/2022/day/3): John '5space' Henry
 
 When ol' John Henry was a babe,  
 A-sitting on his papa's knee,  
@@ -115,6 +117,90 @@ With seven seconds left to go,
 He grabbed the star he knew would fit him.  
 
 But Henry's heart had beat its last  
-When he had whupped his metal foe.  
+When he had beat his metal foe.  
 They buried John, he's dead and gone.  
 That's what they say, and they would know.  
+
+### [Day 4](https://www.adventofcode.com/2022/day/4): A Series of Challenges  
+
+*I had writer's block that morning, so I asked [ChatGPT](https://chat.openai.com/chat) to fill in for me and write that day's poem.*
+
+Solving an Advent of Code problem  
+Is like a treasure hunt or a quest,  
+A series of challenges to overcome  
+And a chance to put my skills to the test.  
+
+I start by reading the problem statement  
+And breaking it down into bits,  
+Thinking about how to approach it  
+And coming up with a plan that fits.  
+
+Then I write some code to solve it  
+Testing and debugging as I go,  
+Making sure it's efficient and correct  
+And ready for the next challenge, oh no.  
+
+In the end, I submit my solution  
+Feeling proud and accomplished too,  
+Another Advent of Code problem solved  
+And one step closer to being through.  
+
+*I'm a bit impressed that it can write poetry at all...but I thought there was still some room for improvement.*  
+
+As my character hunts through the jungle  
+On a quest for a grove with a star,  
+I myself, though I err and I bungle,  
+Hunt for challenge, and that's what these are.  
+
+For each problem, I start by not reading:  
+Take a glance, make a guess at the rest.  
+There's no time to slow down while I'm speeding  
+And attempting to code with the best.  
+
+Then I write down some code and submit it,  
+Inefficient?  Ha!  *Sluggish*, I'll say.  
+And the untested code, I admit it    
+Sometimes works the first try, like today.  
+
+In the end, I've had fun and competed,  
+Having raced through the thing like a master,  
+And with two shiny stars now completed,  
+I can't help but think I could be faster.
+
+### [Day 5](https://www.adventofcode.com/2022/day/5): John '5space' Henry
+
+A couple years ago, when it was winter,  
+And Cratemover Two Thousand was the latest,  
+When somebody was [busy with the printer](https://adventofcode.com/2017/day/1)  
+And someone else took [*Breakout!*](https://adventofcode.com/2019/day/13) for a playtest,  
+The wooden crates we had (and feared would splinter),  
+Held presents, and the top crate was the greatest.  
+Inside - what child wouldn't love to smack it? -  
+Was bubble wrap with bubble wrap to pack it.  
+
+If salt goes bad, with what can it be seasoned?  
+If bug reports don't work, how would you know it?  
+The wrap was safe on top (or so we reasoned),  
+And surely safer than the stuff below it.  
+I said "We wouldn't want the crate to squeeze" and  
+"It's earned the place of honor" said the poet,  
+And so our finest gift, our precious jewel  
+Sat high atop the stack, as if to rule.  
+
+The tallest stack, of course, sticks out the tallest,  
+And that became a problem when a blizzard -  
+The worst we had in years, in fact, the squall-est -  
+Blew forth as if cast at us by a wizard.  
+(The wizard's just one guess, though it's a small list;  
+"Don't irk him, just in case" still sometimes is heard).  
+We thought our stack of crates was doing well,  
+Until at last, on Christmas Eve, it fell.  
+
+Alas!  The bubble wrap had all been frozen  
+Before it fell from such a risky height.  
+The wind on top was strong; if we had chosen  
+Some slightly smaller stacks, it'd be all right.  
+It burst and shattered like it had a hose in;  
+No children got to play with it that night.  
+We're careful, now, when getting cargo loaded.  
+We still remember what the ice and snow did.  
