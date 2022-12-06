@@ -167,7 +167,7 @@ Having raced through the thing like a master,
 And with two shiny stars now completed,  
 I can't help but think I could be faster.
 
-### [Day 5](https://www.adventofcode.com/2022/day/5): John '5space' Henry
+### [Day 5](https://www.adventofcode.com/2022/day/5): Safety First (In Last Out)
 
 A couple years ago, when it was winter,  
 And Cratemover Two Thousand was the latest,  
@@ -204,3 +204,34 @@ It burst and shattered like it had a hose in;
 No children got to play with it that night.  
 We're careful, now, when getting cargo loaded.  
 We still remember what the ice and snow did.  
+
+### [Day 6](https://www.adventofcode.com/2022/day/6): A Letter Back Home
+
+    stftmtvvtvqqczqqnjnwwlqqdzdnnsvnsswb
+    bwsstvvssfjsjbjfjmjpjzpplpppjzjqqdzz
+    hqqqqtcccbzzzwzrrrdqdldpdsppmqmmnwwd
+    dkddTHEmNOISEmrzahfpsczcyxbkpomcuuwj
+    bmfhixwGETSlLOUDEReygvjqykvppgbgzfna
+    pgzfnfrsmhhzwhEVERYymdziyyDAYfkrfduq
+    rdfvdcscoBUTcWHENjYOUxWRITEtMEfuszck
+    ohrhITSyOKAYecveaoqownfuuallqzkwdipx
+    lyuwpqjIrnHOPEwYOUREeSAFEtblggdeurfs
+    emzalojIcfHOPEcYOUREeWELLjovrjtjrejg
+    IxpBETqjTHERESekTALEShrskkomwveyuhyt
+    zsfntovnvifeocefilzYOUDjtoLOVErvxtaj
+    jmaydejwazntjyincthysqyglvhmeTOiTELL
+    abfhgkyodclrljwpzaokvtizfyvxcdiunksu
+    hohTHErBOOMSvdngANDkhitaCRASHESoeoos
+    scdujfemNEVERjCEASEjtajwlroxkqkbqhwv
+    emfxuszbmWEbNEVERqibcguixuufiiomgchw
+    kixxrdvGETuAcBITozueewOFhPEACEpicjih
+    bfcfdhdzdkfzIDoLOVEvONCEbMOREljfnkms
+    czoficuwujesgswkmmklamsjijvvgncojzpk
+    rpdeqtxmbqbpTOyHEARwYOURihhwkasxbnih
+    tstiztijutcljemqoxqltvfelVOICEkvjcap
+    asmewFORaJUSTsqrefsowveorrpvtptkinnk
+    sgAgMOMENTwvpnrclupofqjatnpvfnobdzgu
+    jpwackuyvpbhzsvdxTHROUGHjTHEkqyrnsny
+    wutvpidqmvcgceyfkwdmascrazkzrvekqqfl
+    jfwcuopvugyczseudhsbdsekxxbdiwmesylc
+    NOISEvychumspccubjdjbaeuipocvdpqniug
