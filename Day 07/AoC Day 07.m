@@ -10,7 +10,7 @@ inputPath = FileNameJoin[{NotebookDirectory[], "Day" <> ToString[day] <> "Input.
 input=Import[inputPath,"List"][[1]];
 
 
-**Setup**
+(*Setup*)
 
 directory = {}; level = {"/"};
 Do[
@@ -34,11 +34,11 @@ Do[
   {f, Length[directory]},
   {i, Length[directory[[f, 1]]] - 1}];
 
-**Part 1**
+(*Part 1*)
 
 Total[Select[DownValues[fileSizes][[;; , 2]], # <= 100000 &]]
 
-**Part 2**
+(*Part 2*)
 
 used = Max[DownValues[fileSizes][[;; , 2]]];
 unused = 30000000 - (70000000 - used);

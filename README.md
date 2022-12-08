@@ -235,3 +235,52 @@ We still remember what the ice and snow did.
     wutvpidqmvcgceyfkwdmascrazkzrvekqqfl
     jfwcuopvugyczseudhsbdsekxxbdiwmesylc
     NOISEvychumspccubjdjbaeuipocvdpqniug
+    
+### [Day 7](https://www.adventofcode.com/2022/day/7): Day Seven's Sonnet
+
+Initialize the stack, and add the root  
+(The root's the forward slash, just so you know).  
+The `cd x` commands aren't absolute,  
+So `cd x` goes up; `..`, below.  
+
+And now you should initialize a hash  
+(Not memory-efficient, but it's fine).  
+You'll travel all the way back up to `/`  
+Each time you see a number start a line.  
+
+For every subdirectory you see,  
+You'll add-assign the file size, and then  
+You'll look for the next file (or `cd`)  
+And when you find one, do it all again.  
+
+You'll filter out by size to solve part 1,  
+And part 2 works the same.  And now, you're done.  
+
+### [Day 8](https://www.adventofcode.com/2022/day/8): [I Wonder Where the Flowers Is](https://www.barrypopik.com/index.php/new_york_city/entry/brooklyn_national_anthem_spring_is_sprung)
+
+It's visible, the trees is,  
+From way outside the grid,  
+Unless the outside breezes  
+(At ten times nine degrees-es)   
+Hit taller trees than these is.  
+If so, the trees is hid.  
+
+A local's expertise is  
+What gives the scenic score.  
+She counts up what she sees-es:  
+The short trees and their leaves-es.  
+(The tall ones, hid by eaves-es).  
+She multiplies the four.
+
+You might want our committee  
+To not do what Therese says.  
+The north side sees the city!  
+The south side sees the seas-es!  
+You might think it's a pity  
+To follow these caprices,  
+But I'll give you the keys-es  
+To visit when you pleases,  
+And though it's itty-bitty  
+I'm certain you'll agrees-es:  
+It's really rather pretty,  
+This house atop the trees-es.
