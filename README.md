@@ -12,6 +12,10 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 3: Rucksack Reorganization
 * Day 4: Camp Cleanup
 * Day 5: Supply Stacks
+* Day 6: Tuning Trouble
+* Day 7: No Space Left On Device
+* Day 8: Treetop Tree House
+* Day 9: Rope Bridge
 
 ## Poems
 
@@ -209,32 +213,32 @@ We still remember what the ice and snow did.
 
     stftmtvvtvqqczqqnjnwwlqqdzdnnsvnsswb
     bwsstvvssfjsjbjfjmjpjzpplpppjzjqqdzz
-    hqqqqtcccbzzzwzrrrdqdldpdsppmqmmnwwd
-    dkddTHEmNOISEmrzahfpsczcyxbkpomcuuwj
-    bmfhixwGETSlLOUDEReygvjqykvppgbgzfna
-    pgzfnfrsmhhzwhEVERYymdziyyDAYfkrfduq
-    rdfvdcscoBUTcWHENjYOUxWRITEtMEfuszck
-    ohrhITSyOKAYecveaoqownfuuallqzkwdipx
-    lyuwpqjIrnHOPEwYOUREeSAFEtblggdeurfs
-    emzalojIcfHOPEcYOUREeWELLjovrjtjrejg
-    IxpBETqjTHERESekTALEShrskkomwveyuhyt
-    zsfntovnvifeocefilzYOUDjtoLOVErvxtaj
-    jmaydejwazntjyincthysqyglvhmeTOiTELL
-    abfhgkyodclrljwpzaokvtizfyvxcdiunksu
-    hohTHErBOOMSvdngANDkhitaCRASHESoeoos
-    scdujfemNEVERjCEASEjtajwlroxkqkbqhwv
-    emfxuszbmWEbNEVERqibcguixuufiiomgchw
-    kixxrdvGETuAcBITozueewOFhPEACEpicjih
-    bfcfdhdzdkfzIDoLOVEvONCEbMOREljfnkms
-    czoficuwujesgswkmmklamsjijvvgncojzpk
-    rpdeqtxmbqbpTOyHEARwYOURihhwkasxbnih
-    tstiztijutcljemqoxqltvfelVOICEkvjcap
-    asmewFORaJUSTsqrefsowveorrpvtptkinnk
-    sgAgMOMENTwvpnrclupofqjatnpvfnobdzgu
-    jpwackuyvpbhzsvdxTHROUGHjTHEkqyrnsny
-    wutvpidqmvcgceyfkwdmascrazkzrvekqqfl
-    jfwcuopvugyczseudhsbdsekxxbdiwmesylc
-    NOISEvychumspccubjdjbaeuipocvdpqniug
+    hqqqqtcccbzzzwzrrrdqdldpdsppmqmmnwwz
+    zizzTHEmNOISEjjghyaonuykfvostyphwkqh
+    tujuexqGETSzLOUDERvgwnoopollnmjiovdl
+    szevzocnhtqrfvEVERYslgenrxDAYhicpdnm
+    qochnbqghBUTaWHENhYOUeWRITEmMEmbxlwo
+    wflmITSpOKAYrdkkrhjcohipabhuulkbsosr
+    jpcaxdoInrHOPEzYOUREoSAFExmhqviimetr
+    kgonjdtIirHOPEvYOUREeWELLjzxjeikhwjv
+    IpwBETcxTHEREScnTALESsieuqitrpyayojh
+    nnpkcavciqsitvwafvyYOUDmgjLOVEplcwhv
+    jnwstaqrinfyfdzkoodphgcmxwcneTOcTELL
+    acpbvfbimjzpzixxezxxevyyksmhxtcqbnlj
+    fioTHEpBOOMSftpyANDrzhalCRASHESxnfjj
+    xlpegyodNEVERxCEASEegffoeifugeutbewm
+    wthheyvodWEwNEVERtirbvzjmmecqwogatbs
+    aukfzbzGETkAgBITaocnzkOFvPEACEeyoryi
+    jmonwiIhWISHfTHAThIfuxocrmxdxarwanxe
+    mjazxjwxfycjvbgxwwhvlaknlmsigmoqwirl
+    xvnjbpzugybkCOULDoHEARqYOURhomyxivwf
+    iafsqivcljztmtdvfczzgcfqmVOICEwmqpii
+    FOReJUSTjmwwujorbneysozjnxlzdygfnbnw
+    qgamrsvlAmMOMENTtptqvtxevzauqnkfuukm
+    xqysxqqvzqaihzbTHROUGHdacTHEvhgexnkx
+    wszjyopxhtlpvophsngknwgbzafcwfkfoajr
+    zizuauhokymoevcsnwzxtzhvkzevnoiseijn
+    litcxkbkvrfakwyzuofzmxewuiwrdqcbmbay
     
 ### [Day 7](https://www.adventofcode.com/2022/day/7): Day Seven's Sonnet
 
@@ -270,7 +274,7 @@ What gives the scenic score.
 She counts up what she sees-es:  
 The short trees and their leaves-es.  
 (The tall ones, hid by eaves-es).  
-She multiplies the four.
+She multiplies the four.  
 
 You might want our committee  
 To not do what Therese says.  
@@ -283,4 +287,12 @@ To visit when you pleases,
 And though it's itty-bitty  
 I'm certain you'll agrees-es:  
 It's really rather pretty,  
-This house atop the trees-es.
+This house atop the trees-es.  
+
+### [Day 9](https://www.adventofcode.com/2022/day/9): Lazy Limerick #1
+
+There's a treacherous bridge, and a strait  
+But your rope physics models can't wait.  
+As the bridge breaks apart  
+Hope your model is smart;  
+Better hurry, or you will be late.  
