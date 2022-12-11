@@ -296,3 +296,39 @@ But your rope physics models can't wait.
 As the bridge breaks apart  
 Hope your model is smart;  
 Better hurry, or you will be late.  
+
+### [Day 10](https://www.adventofcode.com/2022/day/10): [One Shade The More, One Ray The Less](https://www.poetryfoundation.org/poems/43844/she-walks-in-beauty)
+
+The CPU counts down the second  
+To draw its pixels like a pen.  
+Just fix the thing, and at your beck and  
+Call the Elves will be again.  
+
+(Then again, *you've* done the work here  
+Getting gadgets up to spec.  
+Perhaps you'll rest a moment, lurk here  
+Before you're at their call, and beck).  
+
+There is a forty cycle bookend  
+Drawing pixels left to right.  
+You'll know, if you check each nook and  
+Cranny, where to put the sprite.  
+
+(But man, [you've timed](https://adventofcode.com/2016/day/15) [a lot](https://adventofcode.com/2016/day/25) [of circuits](https://adventofcode.com/2017/day/1),  
+And [given opcodes](https://adventofcode.com/2017/day/23) [lots](https://adventofcode.com/2016/day/12) [of looks](https://adventofcode.com/2018/day/19).  
+Perhaps you'll rest; it's always work, it's  
+Searching crannies and their nooks.)  
+
+You've found a dry spot in this cove (or  
+Dry enough to fix the fall) -  
+"I'm on my way", you tell them, "Over  
+And out", you say, and end the call.  
+
+(You didn't give an ETA, no  
+Promise for when you'd be back,  
+And that's just fine; for all that they know  
+It takes weeks.  You have some slack.  
+And sure, it might take just a day, no  
+Doubt you're skilled now as a rover,  
+But sometimes rest is *mucho bueno*,  
+Before you climb on out, and over.)  
