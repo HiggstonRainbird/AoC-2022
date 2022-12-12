@@ -16,6 +16,8 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 7: No Space Left On Device
 * Day 8: Treetop Tree House
 * Day 9: Rope Bridge
+* Day 10: Cathode-Ray Tube
+* Day 11: Monkey in the Middle
 
 ## Poems
 
@@ -332,3 +334,34 @@ And sure, it might take just a day, no
 Doubt you're skilled now as a rover,  
 But sometimes rest is *mucho bueno*,  
 Before you climb on out, and over.)  
+
+### [Day 11](https://www.adventofcode.com/2022/day/11): Simian Shenanigans
+*To the tune of the middle part of Weird Al's "[Hardware Store](https://youtu.be/DFI6cV9slfI?t=130)".*
+
+Sigh.  
+Would you look at all that stuff...  
+They got:  
+
+Sets of sandals, super-soakers,  
+Stainless stacking sausage smokers,  
+Stocking stuffers, sparking snuffers,  
+Swimsuits and some snacks by Stouffers,  
+
+[System-update space schematics](https://adventofcode.com/2022/day/7),  
+[Signal strength sextuple statics](https://adventofcode.com/2022/day/10),  
+Sulfide sputters, server stutters,  
+Solid Shaker-style shutters,  
+
+[Sonar sweeps](https://adventofcode.com/2021/day/1) and [systemed seating](https://adventofcode.com/2021/day/11),  
+[Snailfishes](https://adventofcode.com/2021/day/18) and [see-through sheeting](https://adventofcode.com/2021/day/13),  
+[Shuffle slamming](https://adventofcode.com/2019/day/13), [spinlock spamming](https://adventofcode.com/2017/day/17),  
+[Submarine cetacean scramming](https://adventofcode.com/2019/day/7),  
+
+[Shakespeare sonnets](https://www.reddit.com/r/adventofcode/comments/e7pkmt/2019_day_8_solutions/fa2i13v/), [springdroid soarers](https://adventofcode.com/2019/day/21),  
+[Santa's senseis](https://www.reddit.com/r/adventofcode/comments/z9he28/advent_of_code_2022_mistiltoe_elfucation/),  [syntax scorers](https://adventofcode.com/2021/day/10),  
+[Sega slayers](https://www.reddit.com/r/adventofcode/comments/kgbylz/2020_day_119_solving_almost_all_puzzles_on_a_sega/), [site that's Slater's](https://www.reddit.com/r/adventofcode/comments/k1h4bq/2019_day_1_part_2_spits_out_right_answer_for/gdoyucm/)  
+[Saturn Stoichiometrators](https://adventofcode.com/2019/day/14)!  
+
+Man, that's a heavy pack!  You should have told me!  
+No wonder that poor rope bridge couldn't hold me.  
+
