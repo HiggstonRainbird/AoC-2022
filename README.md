@@ -18,6 +18,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 9: Rope Bridge
 * Day 10: Cathode-Ray Tube
 * Day 11: Monkey in the Middle
+* Day 12: Hill Climbing Algorithm
 
 ## Poems
 
@@ -354,8 +355,8 @@ Solid Shaker-style shutters,
 
 [Sonar sweeps](https://adventofcode.com/2021/day/1) and [systemed seating](https://adventofcode.com/2021/day/11),  
 [Snailfishes](https://adventofcode.com/2021/day/18) and [see-through sheeting](https://adventofcode.com/2021/day/13),  
-[Shuffle slamming](https://adventofcode.com/2019/day/13), [spinlock spamming](https://adventofcode.com/2017/day/17),  
-[Submarine cetacean scramming](https://adventofcode.com/2019/day/7),  
+[Shuffle slammers](https://adventofcode.com/2019/day/13), [spinlock spammers](https://adventofcode.com/2017/day/17),  
+[Submarine cetacean scrammers](https://adventofcode.com/2021/day/7),  
 
 [Shakespeare sonnets](https://www.reddit.com/r/adventofcode/comments/e7pkmt/2019_day_8_solutions/fa2i13v/), [springdroid soarers](https://adventofcode.com/2019/day/21),  
 [Santa's senseis](https://www.reddit.com/r/adventofcode/comments/z9he28/advent_of_code_2022_mistiltoe_elfucation/),  [syntax scorers](https://adventofcode.com/2021/day/10),  
@@ -365,3 +366,34 @@ Solid Shaker-style shutters,
 Man, that's a heavy pack!  You should have told me!  
 No wonder that poor rope bridge couldn't hold me.  
 
+### [Day 12](https://www.adventofcode.com/2022/day/12): [Excelsior!](https://www.poetryfoundation.org/poems/44631/excelsior-56d223cb4e6fa)
+
+The shades of night were falling fast  
+As through a lettered heightmap passed  
+A programmer, who for advice  
+Looked often at his strange device:  
+Excelsior!  
+
+He could not climb, but drops, he likes.  
+Not monotonic were his hikes  
+No straight path did he follow down  
+But often checked, without a frown,  
+Excelsior!  
+
+He spiraled up the mountain's height  
+And at the top, beheld a sight  
+Of coders who had never stirred  
+And who had never seen the word  
+Excelsior!  
+
+"Pray tell," said one to him who climbed  
+"For us, the BFS was primed.  
+We did not have to climb at all,  
+So how'd you make it?  What's that called?"  
+"Excelsior!"  
+
+The answer came both quick and blunt.  
+"It's just an advertising stunt!  
+I'm representing Office Pro  
+Who wanted everyone to know  
+[Excelsior](https://www.reddit.com/r/adventofcode/comments/zkehl4/2022_day_12_time_for_some_excel_just_because_we/)!"  
