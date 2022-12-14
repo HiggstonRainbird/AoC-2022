@@ -19,6 +19,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 10: Cathode-Ray Tube
 * Day 11: Monkey in the Middle
 * Day 12: Hill Climbing Algorithm
+* Day 13: Distress Signal
 
 ## Poems
 
@@ -397,3 +398,25 @@ The answer came both quick and blunt.
 I'm representing Office Pro  
 Who wanted everyone to know  
 [Excelsior](https://www.reddit.com/r/adventofcode/comments/zkehl4/2022_day_12_time_for_some_excel_just_because_we/)!"  
+
+### [Day 13](https://www.adventofcode.com/2022/day/13): Distress Signal
+
+There's trouble here!  It's gone awry!  
+We're out of cookies, cream, and pie!  
+The ice cream truck, it passed us by!  
+So do you copy?  Please reply!  
+
+My hiking jacket ripped and tore  
+(And also, there's a dinosaur  
+That's smashing trees with quite the roar).  
+We left the foosball on the shore!  
+
+The eggnog's low - I think it's theft  
+(It's huge, three tons at least, its heft)  
+There's only fifteen barrels left,  
+When they run dry, we'll be bereft!  
+
+Our campsite is an awful mess -  
+We lost the cleaning plans, I guess.  
+(The monster looks like it's from Ness)  
+So hear our signal of distress!  
