@@ -20,6 +20,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 11: Monkey in the Middle
 * Day 12: Hill Climbing Algorithm
 * Day 13: Distress Signal
+* Day 14: Regolith Reservoir
 
 ## Poems
 
@@ -420,3 +421,23 @@ Our campsite is an awful mess -
 We lost the cleaning plans, I guess.  
 (The monster looks like it's from Ness)  
 So hear our signal of distress!  
+
+### [Day 14](https://www.adventofcode.com/2022/day/14): The Castle
+
+I took a bucket with me, and a trowel,  
+Some sunscreen, an umbrella, not much more.  
+I wore some swim trunks, had with me a towel,  
+The day I made a sculpture on the shore.  
+
+It took a bit of time; I didn't stop  
+As waves crashed in and slunk back to the sea.  
+I bucket-tipped, on tiptoes, overtop,  
+Until the towers towered over me.  
+
+A lofty goal a lot of work requires:  
+I piled sand as tall as I could reach,  
+And then I carved, made moats and keeps and spires,  
+Until, at last, 'twas time to leave the beach.  
+
+I ruled the tides and overlooked the land,  
+The day I built a castle out of sand.  
