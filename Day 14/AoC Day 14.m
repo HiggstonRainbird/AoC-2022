@@ -1,11 +1,11 @@
 (* ::Package:: *)
 
 (* ::Text:: *)
-(*Written December 13th, 2022.*)
+(*Written December 14th, 2022.*)
 
 (*Import*)
 
-day = 13;
+day = 14;
 inputPath = FileNameJoin[{NotebookDirectory[], "Day" <> ToString[day] <> "Input.txt"}];
 
 toExpression[inputText_] :=
@@ -17,33 +17,51 @@ toExpression[inputText_] :=
    inputText,
    {Depth[inputText] - 1, Depth[inputText]}];
 
-input = toExpression[StringSplit[Import[inputPath], "\n"]];
-input = Select[
-   ToExpression[StringReplace[#, {"[" -> "{", "]" -> "}"}]] & /@ 
-    input, # =!= Null &];
+input = toExpression[
+   StringSplit[#, {",", " -> "}] & /@ 
+    StringSplit[Import[inputPath], {"\n"}]];
+input = Partition[#, 2] & /@ input;
 
 (*Setup*)
 
-compare[left_, right_] :=
-  Which[
-   IntegerQ[left] && IntegerQ[right], Order[left, right],
-   IntegerQ[left] && ListQ[right], compare[{left}, right],
-   ListQ[left] && IntegerQ[right], compare[left, {right}],
-   
-   ListQ[left] && ListQ[right],
-   FirstCase[
-    Table[
-     compare[left[[i]], right[[i]]], {i, 
-      Min[Length /@ {left, right}]}],
-    Except[0], Order[Length[left], Length[right]]]
+line[{start_, end_}] :=
+  If[start[[1]] != end[[1]],
+   Table[{x, start[[2]]}, {x, start[[1]], end[[1]], 
+     Sign[end[[1]] - start[[1]]]}],
+   Table[{start[[1]], y}, {y, start[[2]], end[[2]], 
+     Sign[end[[2]] - start[[2]]]}]];
+
+rockPositions = DeleteDuplicates[
+   Flatten[Table[
+     line /@ Partition[l, 2, 1],
+     {l, input}], 2]];
+depth = Max[rockPositions[[;; , 2]]];
+
+ClearAll@map;
+map[{x_, y_}] := 0;
+Do[map[r] = 1, {r, rockPositions}];
+
+generateSand[] :=
+  Module[
+   {pos = {500, 0}, falling = True},
+   While[falling,
+    If[pos[[2]] == depth + 1, Return[pos, Module]];
+    If[map[pos + #] == 0, pos += #; Continue[]] & /@
+     {{0, 
+       1}, {-1, 1}, {1, 1}};
+    falling = False;
+    ];
+   Return[pos]
    ];
 
-(*Part 1*)
+(*Parts 1 & 2*)
 
-Total[Flatten[Position[compare @@ # & /@ Partition[input, 2], 1]]]
-
-(*Part 2*)
-
-sorted = Sort[Join[input, {{{2}}, {{6}}}], compare[#1, #2] &];
-Position[sorted, {{6}}, {1}, Heads -> False][[1, 1]]*
-Position[sorted, {{2}}, {1}, Heads -> False][[1, 1]]
+sand = {0, 0};
+count = 0;
+part1 = {False, 0};
+While[sand != {500, 0},
+  sand = generateSand[];
+  If[sand[[2]] >= depth \[And] ! part1[[1]], part1 = {True, count}];
+  map[sand] = 2;
+  count += 1];
+{part1[[2]], count}

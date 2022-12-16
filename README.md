@@ -441,3 +441,35 @@ Until, at last, 'twas time to leave the beach.
 
 I ruled the tides and overlooked the land,  
 The day I built a castle out of sand.  
+
+### [Day 15](https://www.adventofcode.com/2022/day/15): Calculatus Eliminatus
+
+It isn't underneath the sink,  
+It isn't on the tables;  
+I looked under the couch, I think,  
+And even checked the cables.  
+
+The basement, past those cobwebs?  No  
+(Although I might have missed it).  
+I couldn't move the washer, though;  
+Perhaps you could assist it.  
+
+The attic?  Eh - I saw a rat  
+Last time I looked between.  
+The attic is the one place that  
+We never have to clean.  
+
+Besides, there's no way it's in *there*  
+If nobody's been in it,  
+But two people could move these shelves  
+If you could spare a minute.
+
+I peeled up all the rugs just now,  
+And looked through all the keys.  
+We've checked a lot of places - how  
+Has it not been in these?  
+
+In puzzlement, I scratch my head:  
+Where have my glasses got?  
+But I can't find them, so instead,  
+I'll find out where they're not.
