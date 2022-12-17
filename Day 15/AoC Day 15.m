@@ -17,7 +17,7 @@ toExpression[inputText_] :=
    inputText,
    {Depth[inputText] - 1, Depth[inputText]}];
 
-input = input = toExpression[
+input = toExpression[
    StringSplit[#, {"=", ":", ",", " "}] & /@ 
     StringSplit[Import[inputPath], {"\n"}]];
 
