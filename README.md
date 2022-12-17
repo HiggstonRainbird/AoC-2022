@@ -21,6 +21,8 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 12: Hill Climbing Algorithm
 * Day 13: Distress Signal
 * Day 14: Regolith Reservoir
+* Day 15: Beacon Exclusion Zone
+* Day 16: Proboscidea Volcanium
 
 ## Poems
 
@@ -462,7 +464,7 @@ We never have to clean.
 Besides, there's no way it's in *there*  
 If nobody's been in it,  
 But two people could move these shelves  
-If you could spare a minute.
+If you could spare a minute.  
 
 I peeled up all the rugs just now,  
 And looked through all the keys.  
@@ -472,4 +474,12 @@ Has it not been in these?
 In puzzlement, I scratch my head:  
 Where have my glasses got?  
 But I can't find them, so instead,  
-I'll find out where they're not.
+I'll find out where they're not.  
+
+### [Day 16](https://www.adventofcode.com/2022/day/16): Lazy Limerick #2
+
+Get the flow rates from AA to SQ,  
+And do not lay your head on your desk; you  
+Might be six hours deep  
+But who cares about sleep  
+When there's elephants down there to rescue?  
