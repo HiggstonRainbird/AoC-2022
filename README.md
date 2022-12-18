@@ -22,7 +22,8 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 13: Distress Signal
 * Day 14: Regolith Reservoir
 * Day 15: Beacon Exclusion Zone
-* Day 16: Proboscidea Volcanium
+* **Day 16: Proboscidea Volcanium**: Contains both optimized Mathematica solution and unoptimized Rust solution, which run at around the same speeds.  Rust solution is for part 2 only.
+* Day 17: Pyroclastic Flow
 
 ## Poems
 
@@ -478,8 +479,65 @@ I'll find out where they're not.
 
 ### [Day 16](https://www.adventofcode.com/2022/day/16): Lazy Limerick #2
 
-Get the flow rates from AA to SQ,  
+Get the flow rates from `AA` to `SQ`,  
 And do not lay your head on your desk; you  
 Might be six hours deep  
 But who cares about sleep  
 When there's elephants down there to rescue?  
+
+## [Day 17](https://www.adventofcode.com/2022/day/17): Watch For Falling Rocks
+
+Look out - the rocks are falling overhead!  
+I *told* the elephants we should have fled!  
+I tried to shove them, but they're mighty strong;  
+And so we sit here, twiddling our trunks, instead.  
+
+I tried to shove them, but they're mighty strong,  
+Just *one*'s a pain, so try moving a throng!  
+Though one of them helped calculate the flows,  
+I sure wish I could move the rest along.  
+
+Though one of them helped calculate the flows,  
+And saved me a few minutes, I suppose,  
+The rest are all scared stiff from some debris;  
+How they got here at all, nobody knows.  
+
+The rest are all scared stiff from some debris;  
+And one has of them has a request for me:  
+I need to find the cycle of the blocks:  
+A trillion, piled up, how tall? asks he.  
+
+I need to find the cycle of the blocks
+And time their gas-jet patterns with my clocks,  
+Eliminating rows the rocks can't reach,  
+In short, I need to watch for falling rocks.  
+
+Eliminating rows the rocks can't reach  
+Saves lots of time, since there won't be a breach.  
+Of course, I've also proved they won't reach *us*,  
+But elephants don't like that little speech.  
+
+Of course, I've also proved they won't reach us,  
+And in so doing, demonstrated thus:  
+If ever you can cordon off a height  
+A cycle more, you'll cordon off 'height +`.  
+
+If ever you can cordon off a height,  
+Your well will shrink, and will remain finite.  
+And finite wells, you keep within a hash  
+(Assuming that you did the first steps right).  
+
+And finite wells, you keep within a hash,  
+And every new well, check against the cache  
+And later (perhaps sooner) you will find  
+A current state that's found within your stash.  
+
+And later (perhaps sooner) you will find  
+The formulae of cycle-finding kind.  
+I need to find the cycle of the blocks  
+To break this loop with which I've been confined.  
+
+I need to find the cycle of the blocks  
+And time their gas-jet patterns with my clocks,  
+Eliminating rows the rocks can't reach,  
+In short, I need to watch for falling rocks.  
