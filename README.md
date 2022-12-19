@@ -24,6 +24,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 15: Beacon Exclusion Zone
 * **Day 16: Proboscidea Volcanium**: Contains both optimized Mathematica solution and unoptimized Rust solution, which run at around the same speeds.  Rust solution is for part 2 only.
 * Day 17: Pyroclastic Flow
+* Day 18: Boiling Boulders
 
 ## Poems
 
@@ -485,7 +486,7 @@ Might be six hours deep
 But who cares about sleep  
 When there's elephants down there to rescue?  
 
-## [Day 17](https://www.adventofcode.com/2022/day/17): Watch For Falling Rocks
+### [Day 17](https://www.adventofcode.com/2022/day/17): Watch For Falling Rocks
 
 Look out - the rocks are falling overhead!  
 I *told* the elephants we should have fled!  
@@ -541,3 +542,14 @@ I need to find the cycle of the blocks
 And time their gas-jet patterns with my clocks,  
 Eliminating rows the rocks can't reach,  
 In short, I need to watch for falling rocks.  
+
+### [Day 18](https://www.adventofcode.com/2022/day/18): Paindrops Keep Falling On My Head
+
+I tried an umbrella;  
+It now looks like Swiss.  
+I ducked underwater,  
+But felt the steam hiss.  
+This rain is quite hot  
+And there's something amiss  
+When a hailstorm with lightning,  
+Is safer than this.  
