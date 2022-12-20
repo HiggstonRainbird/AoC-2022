@@ -553,3 +553,35 @@ This rain is quite hot
 And there's something amiss  
 When a hailstorm with lightning,  
 Is safer than this.  
+
+### [Day 19](https://www.adventofcode.com/2022/day/19): Round the Rugged Rocks
+
+From deep within a twisting cave  
+We walk into the light;  
+I've joined the herd; both beast and nerd  
+Have made it through the night.  
+
+The falling rocks we dodged and weaved,  
+The lava, we'd divert,  
+And so we see the sun at last,  
+Alive, intact, unhurt.  
+
+From deep within the mountain's depths  
+We walk into the light.  
+The dawn is here, the smoke is clear,  
+The sun is shining bright.  
+
+The beacons signalling distress  
+Have once again been found,  
+Not one the more, not one the less,  
+Not one left underground.  
+
+From deep around the rugged rocks  
+We walk into the light.  
+We see the sky, the herd and I,  
+We witness with delight.  
+
+The stones beneath us shine, and wow!  
+I do not have a doubt:  
+The very rocks are treasures now,  
+Now that we've made it out.  
