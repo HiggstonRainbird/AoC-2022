@@ -25,6 +25,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * **Day 16: Proboscidea Volcanium**: Contains both optimized Mathematica solution and unoptimized Rust solution, which run at around the same speeds.  Rust solution is for part 2 only.
 * Day 17: Pyroclastic Flow
 * Day 18: Boiling Boulders
+* **Day 19: Not Enough Minerals**: Like day 16, has optimized Mathematica and partially optimized Rust.
 
 ## Poems
 
@@ -585,3 +586,41 @@ The stones beneath us shine, and wow!
 I do not have a doubt:  
 The very rocks are treasures now,  
 Now that we've made it out.  
+
+### [Day 20](https://www.adventofcode.com/2022/day/20): The Court, The Camp, The Grove
+
+The hour strikes nineteen, the day is twenty,  
+For this, my daily entry in my log.  
+My spirit's high, my legs are hurting plenty -  
+A mountain's rather tough to take a jog.  
+Where *I* am, I know to `mm` (or `centi-`),  
+But where are *they*?  Don't have their travelogue.  
+And so, in manner tried and true and tested,  
+I don't know where I'm going, so I guessed it.  
+
+This log has come in handy, I'll confess,  
+Such as today, for this bit of decryption.  
+But I don't write what's *useful*; I digress  
+And write instead the fun parts, a description  
+That's just enough to later uncompress -  
+In other words, a *puzzle*, not transcription!  
+And so, by sheerest chance, I wrote the key,  
+That goes from `8-1-1` to `1-5-3`.  
+
+It's way more fun like this, it's way less boring  
+Than doing things the sensible and slow way.  
+What fun's a hike if one is not exploring?  
+The beaten path's surprises are DOA.  
+When you're not dodging rocks and magma pouring,  
+When you're not herding elephants, there's no way  
+That you, when sitting safely, reminiscing,  
+Could ever have imagined what you're missing.  
+
+I got the list from my handheld device  
+(A useful thing I kept in my supply kit).  
+And mixed the list five times, and did that twice  
+And got the answer just the way I like it.  
+I could have taken all that good advice  
+And wrote down where this star grove is - but strike it!  
+Write down enough to make it fun, I say!  
+And so concludes my entry for today.  
