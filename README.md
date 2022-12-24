@@ -26,6 +26,10 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 17: Pyroclastic Flow
 * Day 18: Boiling Boulders
 * **Day 19: Not Enough Minerals**: Like day 16, has optimized Mathematica and partially optimized Rust.
+* Day 20: Grove Positioning System
+* Day 21: Monkey Math
+* Day 22: Monkey Map
+* Day 23: Unstable Diffusion
 
 ## Poems
 
@@ -593,8 +597,8 @@ The hour strikes nineteen, the day is twenty,
 For this, my daily entry in my log.  
 My spirit's high, my legs are hurting plenty -  
 A mountain's rather tough to take a jog.  
-Where *I* am, I know to `mm` (or `centi-`),  
-But where are *they*?  Don't have their travelogue.  
+I know to millimeters (maybe centi-),
+Where I am, but don't have their travelogue.
 And so, in manner tried and true and tested,  
 I don't know where I'm going, so I guessed it.  
 
@@ -624,3 +628,78 @@ I could have taken all that good advice
 And wrote down where this star grove is - but strike it!  
 Write down enough to make it fun, I say!  
 And so concludes my entry for today.  
+
+### [Day 21](https://www.adventofcode.com/2022/day/21): Lazy Limerick #3
+
+Match the numbers the monkeys shout at you,  
+And this time around, be grateful that you  
+Do not need to get close  
+And get fur up your nose  
+Lest your allergies flare up and--ACHOO!  
+
+### [Day 22](https://www.adventofcode.com/2022/day/22): The World Is Flat
+
+"The world is flat!  The world is flat!"  
+I heard a voice declare.  
+I turned to see who spoke to me;  
+A man was standing there.  
+
+His clothes were ragged as his hair,  
+His voice was loud and hoarse,  
+He looked as if he'd hit a cliff:  
+A grad student, of course.  
+
+"The world is flat!" he cried again,  
+With eyes bloodshot and red,  
+And on a whim I turned to him  
+And "No it's not," I said.  
+
+He bent down and with shaking hands  
+A painted map unrolled.  
+When it unfurled, it showed the world  
+In colors bright and bold.  
+
+He pointed to the painted map  
+And gestured with his toe.  
+"Start here.  Face east.  Five steps, at least.  
+Now, where'd you think you'll go?"  
+
+I turned and stepped one pace, then two,  
+But three was one too far.  
+"You're off the edge, I do allege!  
+So, where'd you think you are?"  
+
+"The other side!"  I said to him,  
+Upon that fateful day.  
+I didn't think it *had* a brink  
+So that's the only way.  
+
+And then he asked - my heart is weak -  
+"I mean, *exactly* where?  
+"If I start *here*" - he gestured near -  
+"Will I go *there*, or *there*?"  
+
+The mathematics circled in  
+Like vultures round the dying.  
+I'd love to say I knew a way,  
+But sadly, I'd be lying.  
+
+"On endless planes", the student said,  
+With just a gentle sigh,  
+"You always know to start at `O`  
+And go to `x` and `y`."  
+
+"The distances and paths and trails  
+Are trivial to tell.  
+Old Euclid knew, and I know too,  
+And now you know as well."  
+
+"But if the world were *not* a plane",  
+He asked the flat-Earth rube,  
+"Could you create and calculate  
+"The distance on a **cube**?"  
+
+The world is flat!  The world is flat!  
+That lesson's what I learnt.  
+The world is flat, I'll tell you that:  
+Imagine if it weren't!  
