@@ -703,3 +703,55 @@ The world is flat!  The world is flat!
 That lesson's what I learnt.  
 The world is flat, I'll tell you that:  
 Imagine if it weren't!  
+
+### [Day 23](https://www.adventofcode.com/2022/day/23): The Seeds
+
+There's a seed that I took and I planted,  
+Just a speck among many I found.  
+Before that, I took plant life for granted,  
+But that seed, sadly, never broke ground.  
+
+Not discouraged, I planted another,  
+In the soil that failed for the first,  
+And that seed, like its late older brother,  
+Never rooted, nor through the ground burst.  
+
+And a third and a fourth failed together,  
+Though I altered the soil they grew in.  
+It was not until weeks of bad weather  
+That the fifth broke the cycle of ruin.  
+
+That fifth seed grew a leaf, but it wilted.  
+Was it not enough water?  Too much?  
+Then the stem began sagging.  It tilted  
+Until I tied it up with a crutch.  
+
+And I frantically researched the factors  
+Of the soil and water and sun,  
+I've fixed valves, pipes, and thermal reactors,  
+But this fifth grew one leaf and was done.  
+
+It took numerous trials, and error,  
+It took varying soil and air,  
+It took making light dimmer, or fairer,  
+It took compost and potash and prayer.  
+
+There were hundreds of seeds that I sowed there,  
+There were fifty that ever took root.  
+There were twenty-one sproutlings that showed there,  
+And of those, just a dozen bore fruit.  
+
+They were beautiful, yes, to see blooming,  
+All those stars growing out of the earth.  
+But I don't know, and I'm not presuming,  
+What exactly the heartbreak was worth.  
+
+When you're planting you're dealing with numbers,  
+Since each seed grows alone and unguided.  
+And attachment too early encumbers,  
+And one gets sentimental, like I did.  
+
+From their perilous humble beginning,  
+They all glow like and grow to the sky.  
+But though others would see this as winning,  
+I'm too faint of heart for it.  Not I.  
