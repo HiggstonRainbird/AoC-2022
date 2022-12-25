@@ -30,6 +30,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 21: Monkey Math
 * Day 22: Monkey Map
 * Day 23: Unstable Diffusion
+* Day 24: Blizzard Basin
 
 ## Poems
 
@@ -755,3 +756,29 @@ From their perilous humble beginning,
 They all glow like and grow to the sky.  
 But though others would see this as winning,  
 I'm too faint of heart for it.  Not I.  
+
+### [Day 24](https://www.adventofcode.com/2022/day/24): Through the Wind and Snow
+
+"Hurry, hasten,  
+Put your face in  
+To the basin!  
+
+Litle twister  
+Leaves a blister -  
+Move it, mister!"  
+
+"We evade it!  
+Almost paid it,  
+But we made it."  
+
+"But my candy  
+Would be dandy:  
+Fetch it, Randy!"  
+
+I retreated  
+And completed,  
+But I'll eat it,  
+
+Either now or  
+When I'm dour  
+In an hour.  
