@@ -9,7 +9,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 
 * Day 1: Counting Calories
 * Day 2: Rock Paper Scissors
-* Day 3: Rucksack Reorganization
+* **Day 3: Rucksack Reorganization**: Includes GPT-3 generated Python code; GPT-3 was not able to generate Mathematica.
 * Day 4: Camp Cleanup
 * Day 5: Supply Stacks
 * Day 6: Tuning Trouble
@@ -31,6 +31,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 22: Monkey Map
 * Day 23: Unstable Diffusion
 * Day 24: Blizzard Basin
+* Day 25: Full of Hot Air
 
 ## Poems
 
@@ -598,8 +599,8 @@ The hour strikes nineteen, the day is twenty,
 For this, my daily entry in my log.  
 My spirit's high, my legs are hurting plenty -  
 A mountain's rather tough to take a jog.  
-I know to millimeters (maybe centi-),
-Where I am, but don't have their travelogue.
+I know to millimeters (maybe centi-),  
+Where I am, but don't have their travelogue.  
 And so, in manner tried and true and tested,  
 I don't know where I'm going, so I guessed it.  
 
@@ -782,3 +783,39 @@ But I'll eat it,
 Either now or  
 When I'm dour  
 In an hour.  
+
+### [Day 25](https://www.adventofcode.com/2022/day/25): A Ballade of Christmas
+
+We set up camp along a jungle's shore,  
+And play rock-paper-scissors for the snacks.  
+Chat-GPT wins problems three and four,  
+But can't quite parse and organize the stacks.  
+Devices left with us go out of whacks  
+(Excuse the extra `s`; I blame the trees)  
+The rope bridge falls!  The cathode-ray tube cracks!  
+At least in this hot jungle we won't freeze.  
+
+Some scrounging simians steal scores of stuff,  
+And then, we climb a cliffside and a hill.  
+A signal for distress says "Things are tough!  
+And all this sand just makes it tougher still!"  
+We find a missing beacon with some skill,  
+And teaching valves to elephants?  A breeze!  
+The rocks and magma falling down could kill -  
+At least in this volcano we won't freeze.  
+
+The rocks are lovely, crystals wrapped in shells;  
+We grab a few while we decode the plan,  
+And then find numbers that a monkey yells:  
+It turns out that the *real* monkey is man.  
+The cube's complex, and vastly harder than  
+The blizzard (though we should have brought some skis).  
+We scan the grove, plant seedlings where we scan,  
+And, last, solve this SNAFU so we won't freeze.  
+
+ENVOI
+
+Prince, these many Advents now, I've been a fan:  
+It's been a joy to solve and work with these.  
+I hope you too find joy in all you can,  
+For He is born - enjoy the world He frees!  
